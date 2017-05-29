@@ -16,12 +16,13 @@
 
 ### initialize project
 `pip install -r requirements.txt`  
-`python manage.py migrate`  
-`python manage.py createsuperuser`  
-### initialize chatroom application
 `python manage.py makemigrations chatroom`  
 `python manage.py migrate`  
+`python manage.py createsuperuser`  
+
+### run
 `python manage.py runserver`  
+
 #### Now go to http://localhost:8000 and check the site is working (login page must to appear)
 #### then go to http://localhost:8000/admin , log in with admin credentials and in the Django admin page you can create few users to test the chat.
 
