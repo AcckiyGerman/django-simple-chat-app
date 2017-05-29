@@ -1,5 +1,5 @@
 # Description
-#### Small chat template app based on pure django (with django authentication using) and ajax client page. Client page uses jQuery.
+#### Small chat template app based on pure django (with django authentication) and ajax client page. Client page uses jQuery.
 
 # Local setup in debial/ubuntu
 `git clone https://github.com/AcckiyGerman/django-simple-chat-app/`  
